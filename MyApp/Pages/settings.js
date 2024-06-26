@@ -68,7 +68,7 @@ const Setting = () => {
       </View>
       </TouchableOpacity>
       </View>
-
+1
       {/* Theme Setting */}
       <View style={[styles.itemContainer, styles.themeContainer]}>
         <Text style={[styles.themeText, { color: theme === "light" ? "black" : "white" }]}>Theme</Text>

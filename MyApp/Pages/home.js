@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
     padding: 20,
   },
 });
-1
+
 
 export default Home;
