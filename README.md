@@ -25,7 +25,11 @@ This project demonstrates a basic Expo app with tab navigation using React Navig
 
 ## Images
 
-   ![alt text](image.png)
-   ![alt text](image-1.png)
-   ![alt text](image-2.png)
-   ![alt text](image-3.png)
+   ![image](https://github.com/KTTfx/rn-assignment5-11293722/assets/135650627/ead5a6d7-7be0-4acc-a3fd-a767663e587f)
+   ![image](https://github.com/KTTfx/rn-assignment5-11293722/assets/135650627/46fadfe3-7fa0-4c34-b097-b1f6480c3602)
+   ![image](https://github.com/KTTfx/rn-assignment5-11293722/assets/135650627/a030385f-cb90-4c02-96e6-3e6601e877fa)
+   
+   
+
+
+  
