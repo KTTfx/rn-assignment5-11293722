@@ -20,6 +20,8 @@ This project demonstrates a basic Expo app with tab navigation using React Navig
 1. ## Install Dependencies:**
    ```bash
    npm install
+   npm install '@react-navigation/native'
+   npm install '@react-navigation/bottom-tabs'
 
    expo start
 
